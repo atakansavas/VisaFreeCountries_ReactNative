@@ -40,7 +40,7 @@ export default function HomeScreen() {
           </View>
 
           <Text style={styles.getStartedText}>
-            vay amk
+            deneme bir ki
           </Text>
         </View>
 
@@ -55,7 +55,7 @@ export default function HomeScreen() {
 
       <View style={styles.tabBarInfoContainer}>
         <Text style={styles.tabBarInfoText}>
-          This is a tab bar. You can edit it in:
+          DENEME BIR KI
         </Text>
 
         <View
